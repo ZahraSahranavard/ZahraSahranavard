@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zriw10sahranavard@gmaol.com**
 
-- ⚡ Fun fact **I don't know. Discover me!!🙃**
+- ⚡ Fun fact **Idk. Discover me!!🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
