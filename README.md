@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Zahra</h1>
 <h3 align="center">I'm a computer software engineering student👩🏻‍💻</h3>
+<p>Completing...</p>
 
-<img align="right" alt= "Gif" width= "500" scr= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrasahranavard&label=Profile%20views&color=0e75b6&style=flat" alt="zahrasahranavard" /> </p>
 
