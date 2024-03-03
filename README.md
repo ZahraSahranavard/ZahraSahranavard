@@ -2,7 +2,7 @@
 <h3 align="center">I'm a computer software engineering student👩🏻‍💻</h3>
 <p>Completing...</p>
 
-<img align="right" width="500" height="500" scr="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" width="200" height="200" scr="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrasahranavard&label=Profile%20views&color=0e75b6&style=flat" alt="zahrasahranavard" /> </p>
 
