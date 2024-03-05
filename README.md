@@ -11,7 +11,7 @@
 
 - ♥️ if you are my friend reach me: [https://t.me/zriw10](https://t.me/zriw10)
 
-- ✨ I'm interested in: **Web Design**
+- 🎊 I'm interested in: **Web Design**
 
 - 📫 How to reach me: **zriw10sahranavard@gmaol.com**
 
