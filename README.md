@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrasahranavard&label=Profile%20views&color=0e75b6&style=flat" alt="zahrasahranavard" /> </p>
 
-- 🌱 I’m currently learning **Advanced Python and other programming languages**
+- 🌱 I’m currently learning: **Advanced Python and other programming languages**
 
-- ♥️ if you are my friend reach me [https://t.me/zriw10](https://t.me/zriw10)
+- ♥️ if you are my friend reach me: [https://t.me/zriw10](https://t.me/zriw10)
 
-- ✨ I'm interested in **Web Design**
+- ✨ I'm interested in: **Web Design**
 
-- 📫 How to reach me **zriw10sahranavard@gmaol.com**
+- 📫 How to reach me: **zriw10sahranavard@gmaol.com**
 
-- ⚡ Fun fact **Idk. Discover me!!🙃**
+- ⚡ Fun fact: **Idk. Discover me!!🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
