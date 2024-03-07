@@ -1,4 +1,4 @@
-![MyName](https://github.com/ZahraSahranavard/ZahraSahranavard/blob/main/fullname.png)
+![MyName](https://github.com/ZahraSahranavard/ZahraSahranavard/blob/main/img3.jpg)
 <h1 align="center">Hi👋🏻, I'm Zahra</h1>
 <h3 align="center">I'm a computer software engineering student👩🏻‍💻</h3>
 <img align= "right" alt= "Coding" width= "400" src= "https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40" >
