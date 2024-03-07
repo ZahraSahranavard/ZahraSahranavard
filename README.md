@@ -14,7 +14,7 @@
 
 - 🎊 I'm interested in: **Web Design**
 
-- 📫 How to reach me: **zriw10sahranavard@gmaol.com**
+- 📫 How to reach me: **zriw10sahranavard@gmail.com**
 
 - ⚡ Fun fact: **Idk. Discover me!!🙃**
 
