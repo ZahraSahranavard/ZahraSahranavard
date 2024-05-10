@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zahra-sahranavard-11a1172a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahra sahranavard" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zahra-sahranavard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahra sahranavard" height="30" width="40" /></a>
 <a href="https://instagram.com/zriw10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zriw10" height="30" width="40" /></a> 
 <!-- <a href="https://twitter.com/zriw10s" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2023/08/X-Logo.png" alt="zriw10s" height="30" width="40" /></a>
 --> </p>
