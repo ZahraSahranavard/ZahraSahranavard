@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrasahranavard&label=Profile%20views&color=0e75b6&style=flat" alt="zahrasahranavard" /> </p>
 
-- 🌱 I’m currently learning: **Django**
+- 🌱 I’m currently learning: **Machine Learning**
 
 - ♥️ if you are my friend reach me: [https://t.me/zriw10](https://t.me/zriw10)
 
