@@ -1,26 +1,25 @@
-
-![MyName](https://github.com/ZahraSahranavard/ZahraSahranavard/blob/main/Header1.jpg)
-
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ZahraSahranavard.ZahraSahranavard&"  />
 </div>
 
 ###
 
+![MyName](https://github.com/ZahraSahranavard/ZahraSahranavard/blob/main/Header1.jpg)
+
+
 
 <div align="center">
   <a href="https://zriw10sahranavard@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="26" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="26" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/zahra-sahranavard/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="26" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="26" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/zriw10" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="54" height="26" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="26" alt="telegram logo"  />
   </a>
   <a href="https://instagram.com/zriw10" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="26" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="26" alt="instagram logo"  />
   </a>
 </div>
 
