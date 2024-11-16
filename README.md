@@ -2,34 +2,39 @@
 ![MyName](https://github.com/ZahraSahranavard/ZahraSahranavard/blob/main/Header1.jpg)
 
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZahraSahranavard.ZahraSahranavard&"  />
+</div>
+
 ###
 
+
 <div align="center">
+  <a href="https://zriw10sahranavard@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="26" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/zahra-sahranavard/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href=" zriw10sahranavard@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://instagram.com/zriw10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="26" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/zriw10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="54" height="26" alt="telegram logo"  />
+  </a>
+  <a href="https://instagram.com/zriw10" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="26" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there👋🏻</h1>
 
 ###
 
-<h3 align="left">👩🏻‍💻  About Me</h3>
+<h3 align="left">👩🏻‍💻  About Me :</h3>
 
 ###
 
-<p align="left">I'm <b>Zahra Sahranavard</b><br><br>- 🔭 I’m working as a <b>Python Developer | AI Developer</b> <br>- 🎊 I'm interested in <b>learning new skills</b> <br>- ⚡ In my free time <b>I do research</b><br>- 📫 How to reach me <b>zriw10sahranavard@gmail.com</b></p>
+<p align="left">I'm <b>Zahra Sahranavard</b><br><br>- 🔭 I’m working as a <b>Python Developer | AI Developer</b><br>- 🎊 I'm interested in <b>learning new skills</b><br>- ⚡ In my free time <b>I do research</b><br>- 📫 How to reach me <b><a  href=https://zriw10sahranavard@gmail.com> zriw10sahranavard@gmail.com</a></b></p>
 
 ###
 
@@ -39,7 +44,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools :</h3>
 
 ###
 
@@ -88,12 +93,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ZahraSahranavard/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZahraSahranavard&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -102,9 +101,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ZahraSahranavard&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ZahraSahranavard/ZahraSahranavard/output/snake.svg" alt="Snake animation" />
 
 ###
