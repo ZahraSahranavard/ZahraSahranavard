@@ -32,12 +32,10 @@
 ###
 
 <h3 align="left">👩🏻‍💻  About Me :</h3>
-<p>Hi ! I’m Zahra Sahranavard. A software engineering student of Shiraz’s Azad University. I have worked in almost all fields related to computer, from graphic designs and video editing, to front-end and back-end programming and robotics. And now I am working in the field of artificial intelligence and deep learning is my favorite branch. I’m spending most of the time on learning new skills, and this journey never ends, neither my passion and curiosity in the world of technology. My goal is mastery and progress in the field of design, program, build and development software, successfully cooperation in team projects and grow in the field of AI. 😃👩🏻‍💻
 
-Also, I have to mention that my logo comes from one of the whales races called “Sei”. I’d be happy if you take it as a symbol of peace and friendship of me and you. </p>
 ###
 
-<!--<p align="left">I'm <b>Zahra Sahranavard</b><br><br>- -->
+<p align="left">I'm <b>Zahra Sahranavard</b><br><br>-
 🔭 I’m working as a <b>Python Developer | AI Developer</b><br>- 🎊 I'm interested in <b>learning new skills</b><br>- ⚡ In my free time <b>I do research</b><br>- 📫 How to reach me <b><a  href=https://zriw10sahranavard@gmail.com> zriw10sahranavard@gmail.com</a></b></p>
 
 ###
