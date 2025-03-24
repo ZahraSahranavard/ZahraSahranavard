@@ -35,7 +35,9 @@
 
 ###
 
-<p align="left"> I'm Zahra Sahranavard, an AI Developer with a strong passion for pushing the boundaries of <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Computer Vision</b>. My GitHub account showcases a collection of projects exploring diverse applications of these techniques. While I'm fascinated by the broader scope of Data Science, my core focus lies in building and optimizing intelligent models. Proficient in Python and leveraging TensorFlow framework, along with libraries like Keras, Scikit-learn, and OpenCV, I strive to create practical and impactful AI solutions.I'm eager to connect with fellow researchers, engineers, and innovators in the AI field. Let's collaborate and shape the future of intelligence! ☺️🫰🏻<br><br>-
+<p align="left"> I'm Zahra Sahranavard, an AI Developer and Data Scientist deeply passionate about pushing the boundaries of <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Computer Vision</b>. My core focus lies in building and optimizing intelligent models. Proficient in Python and leveraging the <b>TensorFlow</b> framework, along with libraries like <b>Keras</b>, <b>Scikit-learn</b>, and <b>OpenCV</b>, I strive to create practical and impactful AI solutions.
+
+I believe that collaboration is key to unlocking the full potential of artificial intelligence, and I'm always open to discussing new ideas, sharing insights, and working together on groundbreaking projects. Eager to connect with fellow researchers, engineers, and innovators in the AI field, I'm always excited to learn and contribute to the vibrant AI community. Let's connect, collaborate, and shape the future of intelligence together! Feel free to reach out! ☺️🫰🏻<br><br>-
 
 
 ###
